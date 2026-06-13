@@ -1,1 +1,19 @@
+✨ Novidades desta versão
+Interface completamente reformulada.
+Diversas funções inéditas adicionadas.
+Melhorias significativas em desempenho e estabilidade.
+Organização aprimorada para facilitar a navegação.
+Correções de bugs reportados pela comunidade.
+Otimizações gerais em todos os sistemas.
+Recursos exclusivos adicionados para aumentar a praticidade e a eficiência.
+🔥 Novo Menu
 
+O menu foi desenvolvido do zero, sem reaproveitamento de versões anteriores, trazendo uma estrutura mais robusta, moderna e preparada para futuras atualizações.
+
+👨‍💻 Desenvolvimento
+
+Todo o projeto e desenvolvimento desta nova versão foi realizado por Verex7, focando em qualidade, desempenho e inovação para oferecer a melhor experiência possível aos usuários.
+
+Agradecemos a todos pelo apoio e feedback contínuo. Muitas novidades ainda estão por vir!
+
+Equipe de Desenvolvimento 🚀
